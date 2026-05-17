@@ -1,0 +1,16 @@
+name: rl
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - torch==2.2.2
+    - torchvision==0.17.2
+    - numpy<2.0
+    - gymnasium[classic-control]
+    - matplotlib
+    - plotly
+    - nbformat
+    - ipykernel

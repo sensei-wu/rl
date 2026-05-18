@@ -120,7 +120,7 @@ The notebook includes:
 ## Experiment
 
 - Ran on my macbook 2.3 GHz 8-Core Intel Core i9 in less than 30 seconds
-- Pytorch 2.2 requires numüy < 2.0
+- Pytorch 2.2 requires numpy < 2.0
 
 ## Mathematical Details
 
